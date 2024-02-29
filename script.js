@@ -1,6 +1,6 @@
 // teste
 let teste = "t";
-let nome = "Athur"
+let nome = "Arthur"
 let nome_2 = "Churrasco"
 console.log(teste);
 
